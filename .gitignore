@@ -1,0 +1,9 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+
+
+/utils/geth_data
+/utils/geth.ipc
+/utils/bc_dir
+bc_dir
+/bc_dir
